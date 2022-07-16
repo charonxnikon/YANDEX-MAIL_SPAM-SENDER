@@ -1,4 +1,4 @@
-# YANDEX_MAIL_SENDER
+# YANDEX-MAIL_SPAM-SENDER
 1. Заполняем таблицу excel соответвующими ФИО / ИО и почтами
 
 2. Заполняем текст письма 
